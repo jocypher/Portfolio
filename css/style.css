@@ -12,7 +12,7 @@
     --text-color: #fff;
     --bg-color:#1b1f24;
     --second-bg-color: #22282f;
-    --main-color:#13bbff;
+    --main-color:#e93a2a;
     --other-color:#c3cad5;
 
     --h1-font:4.5rem;
@@ -326,7 +326,7 @@ transform: translateY(-5px) scale(1.03);
     font-size: 28px;
     border-radius: 50%;
     color: var(--text-color);
-    background: #075fe4;
+    background: #e93a2a;
 }
 
 .row h4{
@@ -412,7 +412,7 @@ form .send-btn:hover{
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: #075fe4;
+    background: #e93a2a;
     width: 45px;
     height: 45px;
     border-radius: 50%;
